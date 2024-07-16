@@ -5,5 +5,8 @@ public class Main {
         Kalkulator kalkulator = new Kalkulator();
 
         System.out.println(kalkulator.dodaj(2,3));
+        System.out.println(kalkulator.pomnoz(2,3));
+
+
     }
 }
